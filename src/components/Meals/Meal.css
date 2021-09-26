@@ -1,0 +1,11 @@
+.displaysec {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.right-side {
+  border-right: 1px solid aqua;
+}
+.left-side {
+  margin-top: 100px;
+  margin-left: 15px;
+}
