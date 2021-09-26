@@ -1,3 +1,6 @@
+# Project discription
+It is a react based project. Which includes search option to search the foods from themealdb api. react-bootstrap also used here.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
